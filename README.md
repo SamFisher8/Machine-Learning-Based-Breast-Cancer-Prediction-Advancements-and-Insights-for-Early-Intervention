@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Breast-Cancer-Prediction-Advancements-and-Insights-for-Early-Intervention
+Timely detection of breast cancer is essential, for improving outcomes by facilitating intervention. This research delves into the application of Machine Learning (ML) techniques like Support Vector Machines (SVM) k Nearest Neighbors (KNN) and logistic regression in the realm of breast cancer identification.
